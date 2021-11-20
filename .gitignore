@@ -1,0 +1,6 @@
+bin
+obj
+Migrations
+app.db*
+.vs
+.vscode
