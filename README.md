@@ -1,6 +1,9 @@
 ## Inicio
 
-O arquivo **initDb.sh** contém os scripts necessários para a inicialização da base de dados.
+O arquivo **initDb.sh** contém os scripts necessários para a inicialização da base de dados. Podemos executálo com o seguinte comando:
+```
+sh initDb.sh
+```
 
 
 ## Referencias
